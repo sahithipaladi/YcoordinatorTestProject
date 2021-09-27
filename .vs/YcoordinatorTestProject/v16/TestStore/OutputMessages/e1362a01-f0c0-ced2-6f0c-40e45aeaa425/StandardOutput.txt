@@ -1,0 +1,154 @@
+***************Headlines******************
+What Is Domain-Driven Design (DDD)
+The Mom Test – How to Talk to Customers. A Summary
+Moiré No More
+Always Multiply Your Estimates by π
+Apple’s app review prevents developer from submitting fix to game for the blind
+I just don’t want to be busy anymore
+US military eyes prototype mobile nuclear reactor in Idaho
+3D Printing – High Security Key
+Jellyfin: Free Software Media System
+Shodan Search Engine: Search Engine for the Internet of Everything
+Sometimes mindlessness is better than mindfulness
+Intergalactic jump inspired by science-fiction movies
+Does low cholesterol cause cognitive impairment? Part II
+Leo Editor
+I Invented Baileys (2017)
+Heroku's Managed DB's have been down for 2+ hours
+Spellbrush (YC W18) is hiring an Anime Games marketer
+Apple Disables FaceID if you change the screen yourself – even with OEM screen
+The Speed of Time
+Abusing AWS Lambda to make an Aussie search engine
+Flying by the Fat of the Sea: the secret of shorebirds’ marathon migrations
+What's next for personal productivity
+Persuading investors: A video-based study
+Show HN: Find Reddit discussion threads for your TV shows
+Dealing with Time in the Roman Calendar
+Figure/Ground: Alphonse Allais’ April Fools Album (1897)
+Signal is experiencing technical difficulties
+Are there more surviving ancient writings in Greek or Latin?
+Writing the Roadmap from Engineer to Manager
+Show HN: MPLG – Matplotlib GUI, design plots visually and export as Python code
+*********Points********
+Points: 91
+Points: 54
+Points: 753
+Points: 63
+Points: 606
+Points: 486
+Points: 82
+Points: 92
+Points: 198
+Points: 107
+Points: 87
+Points: 56
+Points: 19
+Points: 108
+Points: 10
+Points: 36
+Points: 87
+Points: 80
+Points: 62
+Points: 5
+Points: 63
+Points: 21
+Points: 52
+Points: 33
+Points: 6
+Points: 107
+Points: 105
+Points: 79
+Points: 62
+Highest Points:753
+***********************Headlines with Points*******************
+1.
+What Is Domain-Driven Design (DDD) (verraes.net)
+91 points
+2.
+The Mom Test – How to Talk to Customers. A Summary (volpee.de)
+54 points
+3.
+Moiré No More (getrevue.co/profile/shift-happens)
+753 points
+4.
+Always Multiply Your Estimates by π (archive.org)
+63 points
+5.
+Apple’s app review prevents developer from submitting fix to game for the blind (applevis.com)
+606 points
+6.
+I just don’t want to be busy anymore (elenasalaks.medium.com)
+486 points
+7.
+US military eyes prototype mobile nuclear reactor in Idaho (apnews.com)
+82 points
+8.
+3D Printing – High Security Key (github.com/feelsong)
+92 points
+9.
+Jellyfin: Free Software Media System (jellyfin.org)
+198 points
+10.
+Shodan Search Engine: Search Engine for the Internet of Everything (shodan.io)
+107 points
+11.
+Sometimes mindlessness is better than mindfulness (scientificamerican.com)
+87 points
+12.
+Intergalactic jump inspired by science-fiction movies (starrior.com)
+56 points
+13.
+Does low cholesterol cause cognitive impairment? Part II (peterattiamd.com)
+19 points
+14.
+Leo Editor (leoeditor.com)
+108 points
+15.
+I Invented Baileys (2017) (irishtimes.com)
+10 points
+16.
+Heroku's Managed DB's have been down for 2+ hours (heroku.com)
+36 points
+17.
+Spellbrush (YC W18) is hiring an Anime Games marketer (workatastartup.com)
+18.
+Apple Disables FaceID if you change the screen yourself – even with OEM screen (youtube.com)
+87 points
+19.
+The Speed of Time (brendangregg.com)
+80 points
+20.
+Abusing AWS Lambda to make an Aussie search engine (boyter.org)
+62 points
+21.
+Flying by the Fat of the Sea: the secret of shorebirds’ marathon migrations (hakaimagazine.com)
+5 points
+22.
+What's next for personal productivity (justindirose.com)
+63 points
+23.
+Persuading investors: A video-based study (voxeu.org)
+21 points
+24.
+Show HN: Find Reddit discussion threads for your TV shows (redditdiscuss.com)
+52 points
+25.
+Dealing with Time in the Roman Calendar (aransentin.github.io)
+33 points
+26.
+Figure/Ground: Alphonse Allais’ April Fools Album (1897) (publicdomainreview.org)
+6 points
+27.
+Signal is experiencing technical difficulties (signal.org)
+107 points
+28.
+Are there more surviving ancient writings in Greek or Latin? (talesoftimesforgotten.com)
+105 points
+29.
+Writing the Roadmap from Engineer to Manager (stackoverflow.blog)
+79 points
+30.
+Show HN: MPLG – Matplotlib GUI, design plots visually and export as Python code (everydayanchovies.github.io)
+62 points
+More
+Highest Points:753
